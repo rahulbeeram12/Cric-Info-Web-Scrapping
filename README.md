@@ -8,10 +8,10 @@ to solve real purpose problems of extracting large information from websites.
  -  JAVASCRIPT
  -  NPM Modules
     -  Minimist--> Takes command line arguments
-    -  Axios--> For making http request <br>
-    -  JSDOM--> For getting information from dom tree
-    -  EXCEL4NODE--> Used to make excel filr
-    -  PDF_LIB--> Used to make scorecards in the form of pds
+    -  Axios--> For making http request 
+    -  JSDOM--> For getting information in the from of dom tree
+    -  EXCEL4NODE--> Used to make excel files
+    -  PDF_LIB--> Used to make scorecards in the form of PDFs
  
  ## FEATURES AND FUNCTIONS
  Dowloading data in the form of HTML by making a http request using axios as we are not using any browser so axios will help to achieve this.
